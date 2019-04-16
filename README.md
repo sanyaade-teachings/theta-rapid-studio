@@ -3,10 +3,10 @@ theta-Rapid-Stduio is a tool for development for Mixe-reality, IoT, M2M, Panoram
 
 ## It is based on the following open source technologies: Evothings, Live-Server, Cordova, Kurento, AppShed, swimOS, serial-port-json-server, Photosynth, OpenSynther, WebRTC, OpenVidu, GAMEPLAY3D, ArtToolkit
 
-##The platform is being developed for Theta-360 Camera V and Z1 currently!
+## The platform is being developed for Theta-360 Camera V and Z1 currently, so it will the testing and deploying platform!
 
 ## Download
-
+soon to come:
 
 ## Building and running from source
 A lot of things are changing so it as to be said to give a try and take it from there. 
